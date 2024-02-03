@@ -1,6 +1,6 @@
 # Explore Your Pdf Files !
 
-**You can get a summary for your file and ask your questions using natural language **
+**You can get a summary for your file and ask your questions using natural language**
 
 
 **Installation**
